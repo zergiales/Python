@@ -1,5 +1,5 @@
 # Hola mundo
-print("prueba desde visual")
+print("prueba desde visual holaa")
 """
 Estos es 
 para hacer un comentario
@@ -11,8 +11,8 @@ de varias lineas
 'Python'
 
 # Valores Booleanos
-True
-False
+#True
+#False
 
 # Hacer listas
 [0,1,2,3,4,5] # todos son del mismo valor , que en este caso es numerico
